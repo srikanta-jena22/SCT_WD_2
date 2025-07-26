@@ -1,5 +1,5 @@
 # ⏱️ Stopwatch Web App
-A simple and responsive stopwatch application built using HTML, CSS, and JavaScript. Developed as part of my Web Development Internship at [Skillcraft Technology](https://skillcraft-technology-tasks.my.canva.site/).
+A simple and responsive stopwatch application built using HTML, CSS, and JavaScript. Developed as part of my Web Development Internship at Skillcraft Technology
 
 ## 🚀 Features
 - Start, Stop, Reset and Lap functionality
@@ -13,11 +13,10 @@ A simple and responsive stopwatch application built using HTML, CSS, and JavaScr
 - JavaScript (setInterval, DOM Manipulation)
 
 ## 📸 Preview
-https://github.com/user-attachments/assets/5973a7ac-570d-49f2-bf87-42557720e869
+https://github.com/user-attachments/assets/0fb45609-dfc4-41bb-ab39-05229171cd29
 
 ## 📚 Learning Outcomes
 - Working with intervals and timers in JS
 - DOM event handling
 - Responsive layout basics
-
 ---
