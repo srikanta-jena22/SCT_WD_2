@@ -13,7 +13,7 @@ A simple and responsive stopwatch application built using HTML, CSS, and JavaScr
 - JavaScript (setInterval, DOM Manipulation)
 
 ## 📸 Preview
-https://github.com/user-attachments/assets/0fb45609-dfc4-41bb-ab39-05229171cd29
+https://github.com/user-attachments/assets/c45f098b-26a6-4a87-b5bc-e7cd86c32b11
 
 ## 📚 Learning Outcomes
 - Working with intervals and timers in JS
