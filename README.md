@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/a11e5119-48b6-4c9f-88b7-2a346703d9c8
 # ⏱️ Stopwatch Web App
 A simple and responsive stopwatch application built using HTML, CSS, and JavaScript. Developed as part of my Web Development Internship at [Skillcraft Technology](https://skillcraft-technology-tasks.my.canva.site/).
 
